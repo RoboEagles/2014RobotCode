@@ -1,0 +1,72 @@
+<xml version="1.0">
+<dashboard>
+	<widget field="Error" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="281" y="244"/>
+	</widget>
+	<widget field="Encoder" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="220"/>
+	</widget>
+	<widget field="Setpoint" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="266" y="195"/>
+	</widget>
+	<widget field="DnSlope" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="147"/>
+	</widget>
+	<widget field="UpSlope" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="126"/>
+	</widget>
+	<widget field="          Range " type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="105"/>
+	</widget>
+	<widget field="     Gyro Angle " type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="84"/>
+	</widget>
+	<widget field="    Sensitivity " type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="63"/>
+	</widget>
+	<widget field="          Twist " type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="42"/>
+	</widget>
+	<widget field="          Power " type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="21"/>
+	</widget>
+	<widget field="Stick Direction " type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="267" y="0"/>
+	</widget>
+	<widget field="      Magnitude " type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="109" y="0"/>
+	</widget>
+	<widget field="LightOff" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="306"/>
+	</widget>
+	<widget field="LightOn" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="272"/>
+	</widget>
+	<widget field="ElevatorInitManual" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="238"/>
+	</widget>
+	<widget field="ElevatorInit" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="204"/>
+	</widget>
+	<widget field="Pass" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="170"/>
+	</widget>
+	<widget field="Autonomous" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="136"/>
+	</widget>
+	<widget field="RollOut" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="102"/>
+	</widget>
+	<widget field="RollIn" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="68"/>
+	</widget>
+	<widget field="Reload" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="34"/>
+	</widget>
+	<widget field="Shoot" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="0"/>
+	</widget>
+</dashboard>
+<live-window>
+</live-window>
+</xml>
